@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 
 # Load the model
-model = load_model('fruits2_classifier.h5')
+model = load_model('fruits_classifier2.h5')
 
 class_mapping = {
     "0": "Apple Braeburn", "1": "Apple Crimson Snow", "2": "Apple Golden 1",
