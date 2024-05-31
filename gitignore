@@ -1,6 +1,7 @@
 # Python
 *.pyc
 __pycache__/
+fruits_classifier.py 
 
 # Environment
 venv/
@@ -8,3 +9,5 @@ venv/
 
 # Others
 *.h5
+Validation/
+Training/
