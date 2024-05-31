@@ -1,5 +1,7 @@
 # ImageClassification
 This repository contains a Streamlit web application that allows users to classify images of fruits using a pre-trained convolutional neural network (CNN) model. The app supports uploading photos from the user's device or capturing images using their laptop or phone camera.
+#link 
+https://imageclassification-qihhhk5rcxpwcjpsbf86vu.streamlit.app/
 
 ## Features
 
